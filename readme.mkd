@@ -1,4 +1,4 @@
-# archlinux-config
+# arch-config
 
 My Arch Linux-specific set up.
 
